@@ -6,3 +6,11 @@
 	max-width: 100%;
     object-fit: cover;
 }
+
+.navbar-brand{
+    margin-left: 100px;
+}
+
+.dropdown{
+    margin-right: 120px;
+}

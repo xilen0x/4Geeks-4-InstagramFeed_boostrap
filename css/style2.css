@@ -1,0 +1,53 @@
+body{
+    background-color: lightgrey;
+    margin: 0;
+}
+
+.master{
+	background-color: #fff;
+    width: 500px;
+    height: 400px;
+    margin: 0 auto;
+    margin-top: 20px;
+	margin-bottom: 10px;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 1px;
+    padding-left: 20px;
+    
+}
+
+.header{
+	display: block;
+	height: 50px;
+}
+.header .tituloFeed{
+	float: left;
+    display: block;
+}
+
+.header .numerosVisita{
+    font-size: 12px;
+    float: right;
+	padding-right: 10px;
+	padding-top: 20px;	
+}
+
+/*IMAGEN*/
+.imagen img{ /*Esto se aplica directamente a la imagen*/
+	width: 100%;
+    object-fit: cover;
+}
+
+.parrafo{
+	font-size: 12px;
+}
+
+nav{
+    background-color: white;
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
